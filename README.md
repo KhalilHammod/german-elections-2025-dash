@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/22410766/readme.md)
 ### **🇩🇪 Germany 2025 Election Dashboard**
 
 This project is an interactive web dashboard built with **Python** and **Dash** that visualizes the results of the Germany 2025 federal election. It allows users to explore national vote totals and specific state-level results for both first and second votes.
